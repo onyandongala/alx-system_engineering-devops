@@ -1,2 +1,2 @@
-#!/bib/bash
-ls . .. /boot -la
+#!/bin/bash
+chmod -R +X .
